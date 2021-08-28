@@ -1,11 +1,11 @@
 Hello I'm **[KOGI](https://rrd0627.github.io)**
 
-## Game Programmer
+##Game Programmer
 
 - Unity Client Programming
 
 
-## Interest
+##Interest
 
 - Problem Solving
 - Game Design
