@@ -1,4 +1,4 @@
-Hello I'm **[KOGI](https://rrd0627.github.io)**
+Hello I'm **[KOGI](https://rrd0627.github.io)** 👋
 
 # Game Programmer
 
